@@ -1,2 +1,2 @@
-# JupyterLearningCodes
-the Demo Codes for HiFrank's Jupyter Learning Book.
+# Jupyter Learning Codes
+This is the demo codes for HiFrank's Jupyter Learning Book.
